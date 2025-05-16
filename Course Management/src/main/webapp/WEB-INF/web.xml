@@ -1,0 +1,38 @@
+
+<web-app>
+  <servlet>
+    <servlet-name>CourseListServlet</servlet-name>
+    <servlet-class>com.coursemanagement.servlet.CourseListServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CourseListServlet</servlet-name>
+    <url-pattern>/courses</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CourseFormServlet</servlet-name>
+    <servlet-class>com.coursemanagement.servlet.CourseFormServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CourseFormServlet</servlet-name>
+    <url-pattern>/courseForm</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CourseSaveServlet</servlet-name>
+    <servlet-class>com.coursemanagement.servlet.CourseSaveServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CourseSaveServlet</servlet-name>
+    <url-pattern>/saveCourse</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>CourseDeleteServlet</servlet-name>
+    <servlet-class>com.coursemanagement.servlet.CourseDeleteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CourseDeleteServlet</servlet-name>
+    <url-pattern>/deleteCourse</url-pattern>
+  </servlet-mapping>
+</web-app>
