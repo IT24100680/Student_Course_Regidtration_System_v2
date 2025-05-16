@@ -283,7 +283,7 @@
 
   <div class="action-bar">
     <a href="courseForm" class="btn btn-primary">
-      <i class="fas fa-plus"></i> Add Course
+      <i class="fas fa-plus"></i> Add New Course
     </a>
   </div>
 
