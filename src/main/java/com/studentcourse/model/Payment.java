@@ -5,13 +5,13 @@ import java.io.Serializable;
 public class Payment implements Serializable {
     private static final long serialVersionUID = 1L;
 
-    private String studentID;
+    private String studentId;
     private double amount;
     private String method;
     private String date;
 
     public Payment(String studentID, double amount, String method, String date) {
-        this.studentID = studentID;
+        this.studentId = studentID;
         this.amount = amount;
         this.method = method;
         this.date = date;
@@ -20,12 +20,12 @@ public class Payment implements Serializable {
 
     public String getStudentID() {
 
-        return studentID;
+        return studentId;
     }
 
     public void setStudentID(String studentID) {
 
-        this.studentID = studentID;
+        this.studentId = studentID;
     }
 
     public double getAmount() {
@@ -59,7 +59,7 @@ public class Payment implements Serializable {
 
     @Override
     public String toString() {
-        return studentID + "," + amount + "," + method + "," + date;
+        return studentId + "," + amount + "," + method + "," + date;
     }
 
     public static Payment fromCSV(String csvLine) {
