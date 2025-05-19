@@ -5,7 +5,7 @@ import java.io.*;
 import java.util.*;
 
 public class CourseDAO {
-    private static final String FILE_PATH = "C:\\Users\\ASUS\\OneDrive\\Desktop\\Course Management\\src\\main\\resources\\courses.txt";
+    private static final String FILE_PATH = "C:\\Users\\ASUS\\OneDrive\\Desktop\\Y1S2\\OOP\\OOP Project\\Course Management\\Student_Course_Regidtration_System_v2\\Course Management\\src\\main\\resources\\courses.txt";
 
     public static List<Course> getAllCourses() {
         List<Course> courses = new ArrayList<>();

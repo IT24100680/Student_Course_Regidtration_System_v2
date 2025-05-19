@@ -1,2 +1,5 @@
 Discrete Mathematics|Online|Hjlka|Shasmika Dewmith|4|40||http://localhost:8080/CourseManagement_war_exploded/courseForm
 Technical Writting|Offline||Randil Wijesinghe|3|28||http://localhost:8080/CourseManagement_war_exploded/courseForm
+Object Oriented Programming|Online||Sithum Bimsara|4|40||http://localhost:8080/CourseManagement_war_exploded/courseForm
+Data Structures and Algorithms|Online||Praneeth Lakshan|4|40||https://bolt.new/~/sb1-n2hlqfip
+Introduction to Programming|Online||Sarasitha Galagama|4|40|zoom|http://localhost:8080/CourseManagement_war_exploded/courseForm

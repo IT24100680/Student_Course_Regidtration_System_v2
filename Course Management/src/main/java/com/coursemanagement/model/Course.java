@@ -10,7 +10,6 @@ public class Course {
     private String platform;
     private String meetingLink;
 
-    // Constructors, getters, setters
     public Course() {}
 
     public Course(String name, String type, String description, String instructor, int credits, int capacity, String platform, String meetingLink) {
@@ -23,9 +22,6 @@ public class Course {
         this.platform = platform;
         this.meetingLink = meetingLink;
     }
-
-    // Getters and setters for all fields
-    // ... (generate using IDE)
 
     public String getName() {
         return name;
