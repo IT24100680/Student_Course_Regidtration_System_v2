@@ -55,7 +55,7 @@
             for (Payment payment : payments) {
         %>
         <tr>
-            <td><%= payment.getStudentID() %></td>
+            <td><%= payment.getStudentId() %></td>
             <td><%= payment.getAmount() %></td>
             <td><%= payment.getMethod() %></td>
             <td><%= payment.getDate() %></td>
