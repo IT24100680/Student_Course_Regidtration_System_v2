@@ -173,7 +173,7 @@
 </head>
 <body>
 <div class="container">
-  <h1><%= index != null ? "Edit Course" : "Create New Course" %></h1>
+  <h1><%= index != null ? "Edit Course" : "Create Course" %></h1>
   <form method="post" action="saveCourse">
     <input type="hidden" name="index" value="<%= index != null ? index : "" %>"/>
 
