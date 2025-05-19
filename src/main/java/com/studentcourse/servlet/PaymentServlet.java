@@ -18,6 +18,6 @@ public class PaymentServlet extends HttpServlet {
         Payment payment = new Payment(studentId, amount, method, date);
         PaymentDAO.addPayment(payment);
 
-        response.sendRedirect("history.jsp"); // or "/viewet
+        response.sendRedirect("history.jsp");
     }
 }
