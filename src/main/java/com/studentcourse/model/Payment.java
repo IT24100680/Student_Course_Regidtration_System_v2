@@ -10,22 +10,22 @@ public class Payment implements Serializable {
     private String method;
     private String date;
 
-    public Payment(String studentID, double amount, String method, String date) {
-        this.studentId = studentID;
+    public Payment(String studentId, double amount, String method, String date) {
+        this.studentId = studentId;
         this.amount = amount;
         this.method = method;
         this.date = date;
     }
 
 
-    public String getStudentID() {
+    public String getStudentId() {
 
         return studentId;
     }
 
-    public void setStudentID(String studentID) {
+    public void setStudentId(String studentId) {
 
-        this.studentId = studentID;
+        this.studentId = studentId;
     }
 
     public double getAmount() {
