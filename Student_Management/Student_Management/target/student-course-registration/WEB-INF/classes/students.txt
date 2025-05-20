@@ -1,0 +1,5 @@
+10001,shasmika,shasmikadewmith@gmail.com,123,Undergraduate
+1001,Shasmika Dewmith,shasmikadewmith@gmail.com,1234,Undergraduate
+2001,Randil Wijesinghe,randil123@gmail.com,123,Graduate
+1002,Sithum Bimsara,sithum123@gmail.com,12345,Undergraduate
+1003,Thirath Nirodha,thirathnirodha@gmail.com,123,Undergraduate

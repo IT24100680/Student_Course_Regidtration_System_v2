@@ -1,0 +1,7 @@
+CSC101,Discrete Mathematics,300
+CSC102,Object Oriented Programming,350
+CSC103,Data Structures and Algorithms,400
+CSC104,Introduction to Programming,250
+CSC105,Data Communication and Networks,320
+CSC106,Database Management,380
+CSC107,Engineering Mathematics,280

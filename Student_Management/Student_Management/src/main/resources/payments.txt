@@ -1,0 +1,3 @@
+1005,Sithum Bimsara,sithum@gmail.com,1234,Undergraduate
+1010,shasmika dewmith,shash@gmail.com,123,Graduate
+1039,Sithum Bimsara,sithum123@gmail.com,12345,Undergraduate
